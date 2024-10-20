@@ -1,0 +1,33 @@
+depth = 16;
+width = 8;
+address_radix = HEX;
+data_radix = hex;
+content
+begin
+
+
+
+
+0:CB;   
+1:CA;  
+2:FE;  
+3:AB;  
+4:E5;
+  
+5:00;
+6:00;  
+7:00; 
+8:00;  
+9:00;  
+A:00; 
+B:00;  
+C:00;
+ 
+D:00; 
+ 
+E:00;  
+F:00;
+
+
+
+end;
